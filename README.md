@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Kushal Jirel</h1>
-<h3 align="center">A passionate developer from Nepal.</h3>
+<h3 align="center">A starter web developer.</h3>
 
 - 🌱 I’m currently learning **Nextjs and Backend Web development** - 📫 How to
 reach me **kusaljirel24@gmail.com**
