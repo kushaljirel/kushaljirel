@@ -119,15 +119,6 @@ reach me **kusaljirel24@gmail.com**
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
